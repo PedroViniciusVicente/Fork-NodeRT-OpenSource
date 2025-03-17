@@ -140,28 +140,6 @@ esbuild@^0.13.9:
     esbuild-windows-64 "0.13.12"
     esbuild-windows-arm64 "0.13.12"
 
-has-bigints@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/has-bigints/download/has-bigints-1.0.1.tgz#64fe6acb020673e3b78db035a5af69aa9d07b113"
-  integrity sha1-ZP5qywIGc+O3jbA1pa9pqp0HsRM=
-
-is-bigint@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.npmmirror.com/is-bigint/download/is-bigint-1.0.4.tgz?cache=0&sync_timestamp=1628747589154&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fis-bigint%2Fdownload%2Fis-bigint-1.0.4.tgz#08147a1875bc2b32005d41ccd8291dffc6691df3"
-  integrity sha1-CBR6GHW8KzIAXUHM2Ckd/8ZpHfM=
-  dependencies:
-    has-bigints "^1.0.1"
-
-lodash@^4.17.21:
-  version "4.17.21"
-  resolved "https://registry.npmmirror.com/lodash/download/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
-  integrity sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=
-
-object-hash@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.npmmirror.com/object-hash/download/object-hash-2.2.0.tgz#5ad518581eefc443bd763472b8ff2e9c2c0d54a5"
-  integrity sha1-WtUYWB7vxEO9djRyuP8unCwNVKU=
-
 typescript@^4.3.2:
   version "4.4.4"
   resolved "https://registry.npmmirror.com/typescript/download/typescript-4.4.4.tgz#2cd01a1a1f160704d3101fd5a58ff0f9fcb8030c"
